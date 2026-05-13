@@ -88,7 +88,7 @@ This framework covers AI systems deployed within SOC operations including:
 **Sai Teja Girimaji**
 Network Security Capability Lead, NTT DATA Cloud Services Division
 
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) &nbsp;|&nbsp; [Portfolio](YOUR_PORTFOLIO_URL_HERE)
+[LinkedIn](https://www.linkedin.com/in/girimaji-saiteja-569b356a) &nbsp;|&nbsp; [Portfolio](https://saiteja-security.netlify.app)
 
 ---
 
