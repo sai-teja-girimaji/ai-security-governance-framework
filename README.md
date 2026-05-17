@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # AI Security Governance Framework
 
 > Enterprise standards for secure AI deployment in SOC environments
